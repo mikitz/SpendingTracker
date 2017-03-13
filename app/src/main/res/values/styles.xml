@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Dark" parent="Theme.AppCompat.DayNight">
+
+    </style>
+
+    <style name="Light" parent="Theme.AppCompat.Light">
+
+    </style>
+
+    <style name="Green" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- 500 level color -->
+        <item name="colorPrimary">#4CAF50</item>
+        <!-- 700 level color -->
+        <item name="colorPrimaryDark">#388E3C</item>
+        <!-- 900 level color -->
+        <item name="colorAccent">#1B5E20</item>
+        <!-- 400 level color -->
+        <item name="colorButtonNormal">#66BB6A</item>
+    </style>
+
+    <style name="CategoryHeader">
+
+    </style>
+
+    <style name="CategorySpent">
+
+    </style>
+
+    <style name="CategoryPercent">
+
+    </style>
+
+
+</resources>

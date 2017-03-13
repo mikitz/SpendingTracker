@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\Google Drive\Docs\Android\Android Studio Projects\SpendingTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Michael\Google Drive\Docs\Android\Android Studio Projects\SpendingTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fd5e3e9382fb74afc3a8dfc9ceae5969f0f703d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\Google Drive\Docs\Android\Android Studio Projects\SpendingTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b04b4af3b3a0b60b1f7cc5f891ee2385e9e54d71">
+        <dex dex="C:\Users\Michael\Google Drive\Docs\Android\Android Studio Projects\SpendingTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_39c7d62e7f12059f1bdf9e6a99529cd8f4b64340\classes.dex" />
+    </item>
+
+</items>

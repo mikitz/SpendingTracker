@@ -1,0 +1,34 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_addTransaction"
+        android:title="@string/add_transaction"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_add_transaction" />
+
+    <item
+        android:id="@+id/action_addCategory"
+        android:title="@string/addCategory"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_action_add_category"/>
+
+    <item
+        android:id="@+id/action_addItem"
+        android:title="@string/addItem"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_action_add_item"/>
+
+    <item
+        android:id="@+id/action_addDefaults"
+        android:title="Add Defaults"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_settings_2" />
+
+</menu>
